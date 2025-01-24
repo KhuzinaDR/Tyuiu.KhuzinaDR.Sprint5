@@ -14,7 +14,6 @@ namespace Tyuiu.KhuzinaDR.Sprint5.Task7.V10.Lib
             }
             string str = File.ReadAllText(path);
             string newstr = "";
-
             foreach (char s in str)
             {
                 if ((s >= 'A' && s <= 'Z') && (char.IsUpper(s)))
