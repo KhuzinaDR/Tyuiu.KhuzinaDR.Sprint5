@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.KhuzinaDR.Sprint5.Task2.V25
+﻿ namespace Tyuiu.KhuzinaDR.Sprint5.Task2.V25
 {
     internal class Program
     {
