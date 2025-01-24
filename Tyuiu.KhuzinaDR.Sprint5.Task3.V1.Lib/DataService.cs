@@ -4,7 +4,7 @@ using System.Text;
 namespace Tyuiu.KhuzinaDR.Sprint5.Task3.V1.Lib
 {
     public class DataService : ISprint5Task3V1
-    { 
+    {
         public string SaveToFileTextData(int x)
         {
             string path = $@"{Path.GetTempPath()}OutPutFileTask3.bin";
